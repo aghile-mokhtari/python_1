@@ -8,4 +8,3 @@ while True:
         print('false')
         break
     number /= 2
-   
