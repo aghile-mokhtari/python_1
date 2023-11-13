@@ -17,4 +17,4 @@ while True:
         print(' insert greater')
     s += 1
 print(number)
-    
+
