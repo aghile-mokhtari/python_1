@@ -12,6 +12,10 @@ while True:
  
     numberslist += number
     counter += 1   
-  
+
+
+
+        
+
         
 
