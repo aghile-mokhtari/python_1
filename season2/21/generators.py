@@ -11,8 +11,9 @@
 #     prime_number.append(i)
 # print(prime_number)
 
-# ////fibonacci///1,1,2,3,5,8,13,21
-                #   1,2,3,4,5,6,7,8   
+
+
+# ////fibonacci///
 # list =[1,1]
 # def fibo(n):
 #     if n < 3:
@@ -25,8 +26,10 @@
 # for i in fibo(8):
 #     list.append(i)
 # print(list[(len(list)-1)])
-# ///tibonacci/////  0,0,1,1,2,4,7,13
-                #    1,2,3,4,5,6,7,8 
+
+
+
+# ///tibonacci///// 
 # list =[0,0,1]
 # def fibo(n):
 #     if n < 3:
@@ -41,9 +44,10 @@
 # for i in fibo(1):
 #     list.append(i)
 # print(list[(len(list)-1)])
-# print(list)
-# ////power////  1,2,4,8,16,32,64 >2
-#                3,9,27,  >3
+# 
+
+
+# ////power of n//// 
 # list = [1]
 # def power(n):
 #     for i in range(0,10):
@@ -53,9 +57,9 @@
 #     list.append(i)
 # print(list)
 
-# /////factorial////  1,2,3,4,5,6,7,8,
-#                     1,2,6,24,120,720,5040
 
+
+# /////factorial//// 
 # list = [1]
 # def fac(n):
 #     x = 1
@@ -68,6 +72,8 @@
             
 # for i in fac(5):
 #     print(i)
+
+
 
 # //////اعداد تام/////////
 # tamam=[]
